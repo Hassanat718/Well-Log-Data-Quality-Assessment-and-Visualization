@@ -30,6 +30,6 @@ This project focuses on data quality assessment and visualization. Identifying p
 No data-cleaning operations are claimed unless explicitly documented in the notebook.
 
 ## Author
-**Hassanat Jibril**
+**Hassanat Jibril Mohammed**
 
 Geoscience | Petrophysical Evaluation | Python for Subsurface Data Analysis
